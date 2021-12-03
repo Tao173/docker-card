@@ -1,5 +1,6 @@
 {
     "name": "docker-card",
     "render_readme": true,
-    "filename": "docker-card.js"
+    "filename": "docker-card.js",
+    "filename": "dwains-flexbox-card.js"
 }
