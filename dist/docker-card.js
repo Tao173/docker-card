@@ -39,7 +39,7 @@ class DockerCard extends LitElement {
 
   renderMain() {
     const entpart = this._config.entitypart
-    const logo = this._config.logo || '/local/systemicons/docker.png'
+    const logo = this._config.logo || '/hacsfiles/docker-card/icons/docker.png'
     const name =
       this._config.name ||
       this.hass.states['switch.' + entpart].attributes.friendly_name
