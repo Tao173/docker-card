@@ -61,3 +61,17 @@ cards:
         entitypart: docker_qinglong
 
 ```
+
+图标说明：
+
+插件目录自带的有一部分图标，路径为/hacsfiles/docker-card/icons/
+
+```
+logo: /local/systemicons/docker.png
+```
+
+替换为：
+
+```
+logo: /hacsfiles/docker-card/icons/docker.png
+```
