@@ -1,5 +1,5 @@
 {
-    "name": "Docker card",
+    "name": "docker-card",
     "render_readme": true,
     "filename": "docker-card.js"
 }
