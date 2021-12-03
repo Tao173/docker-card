@@ -21,3 +21,43 @@
 预览：
 
 <img src="https://raw.githubusercontent.com/Tao173/docker-card/main/docker.png" >
+
+配置代码：
+
+```
+type: horizontal-stack
+cards:
+  - type: custom:stack-in-card
+    cards:
+      - type: custom:docker-card
+        logo: /local/systemicons/mpd.png
+        entitypart: docker_addon_243ffc37_mpd
+      - type: custom:docker-card
+        logo: /local/systemicons/mosquitto.png
+        entitypart: docker_addon_core_mosquitto
+  - type: custom:stack-in-card
+    cards:
+      - type: custom:docker-card
+        logo: /local/systemicons/docker.png
+        entitypart: docker_hassio_audio
+      - type: custom:docker-card
+        logo: /local/systemicons/docker.png
+        entitypart: docker_hassio_cli
+  - type: custom:stack-in-card
+    cards:
+      - type: custom:docker-card
+        logo: /local/systemicons/docker.png
+        entitypart: docker_hassio_observer
+      - type: custom:docker-card
+        logo: /local/systemicons/docker.png
+        entitypart: docker_hassio_supervisor
+  - type: custom:stack-in-card
+    cards:
+      - type: custom:docker-card
+        logo: /local/systemicons/wangyiyun.png
+        entitypart: docker_netease_cloud_music_api
+      - type: custom:docker-card
+        logo: /local/systemicons/qinglong.png
+        entitypart: docker_qinglong
+
+```
