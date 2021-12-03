@@ -8,4 +8,4 @@
 
 * 加入原作者地址，感谢原作者。
 
-[原作者] (https://github.com/bacco007URL)
+![原作者] (https://github.com/bacco007URL)
