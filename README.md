@@ -1,4 +1,4 @@
-# 一个服务于homeassistant的容器监视卡片
+# 一个基于[monitor_docker](https://github.com/ualex73/monitor_docker)的容器监视卡片
 
 ### 本卡片说明：
 
