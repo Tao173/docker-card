@@ -3,6 +3,7 @@
 ### 本卡片说明：
 
 * 本来是自己使用的，hassbian有人询问，所以就分享一下。
+* 一切docker信息来源于集成 [monitor_docker](https://github.com/ualex73/monitor_docker)，该集成配置比较玄学，自己琢磨，勿cue。
 * 源代码不是本人所有，原作者未发布成插件形式，我只是整理、部分内容汉化而已，感谢原作者！
 * 整合之前已经在原作者GitHub相关代码提出issue，请求使用和修改。（目前未得到回复）。
 
