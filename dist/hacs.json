@@ -1,5 +1,6 @@
 {
     "name": "Docker卡片",
+    "country": "CN",
     "render_readme": true,
     "filename": "docker-card.js"
 }
