@@ -25,6 +25,16 @@
 
 配置代码：
 
+需要的卡片：
+
+[stack-in-card](https://github.com/custom-cards/stack-in-card)
+
+[horizontal-stack](https://github.com/ofekashery/vertical-stack-in-card)
+
+单张卡片不需要安装上面那个，单张卡片可diy更多，自己发挥吧。
+
+多卡片集合需要，即垂直和水平堆叠。
+
 ```
 type: horizontal-stack
 cards:
